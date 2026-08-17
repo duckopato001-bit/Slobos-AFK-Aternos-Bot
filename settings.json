@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "EpicMinigamesMC.aternos.me:25084",
+    "ip": "EpicMinigamesMC.aternos.me",
     "port": 25084,
     "version": "",
     "try-creative": false
