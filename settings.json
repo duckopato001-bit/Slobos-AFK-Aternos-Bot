@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "EpicMinigamesMC.aternos.me:25084",
+    "port": 25084,
     "version": "",
     "try-creative": false
   },
